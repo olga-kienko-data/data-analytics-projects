@@ -103,5 +103,4 @@ No single factor determines profitability.
 
 ## Tech Stack
 - Python (pandas, matplotlib, seaborn)
-- SQL
-- Excel
+- Jupyter Notebook (Google Colab)
