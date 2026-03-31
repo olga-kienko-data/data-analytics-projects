@@ -57,6 +57,10 @@ The dataset contains information about online store transactions, including:
 - Positive relationship between profit and sales
 
 ---
+##  Visualization Preview
+![Charts](charts.png)
+
+---
 
 ##  Tech Stack
 - Python (pandas, matplotlib)
