@@ -58,6 +58,6 @@ The dataset contains information about online store transactions, including:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python (pandas, matplotlib)
 - Jupyter Notebook (Google Colab)
