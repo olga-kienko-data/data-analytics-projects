@@ -18,6 +18,7 @@ The code in this repository helps to:
 - Tableau
 - Power BI
 - Google Sheets
+- A/B Testing & Statistics
 
 ##  Repository structure
 - `data/` – datasets used for analysis  
