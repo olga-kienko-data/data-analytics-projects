@@ -40,7 +40,7 @@ This project helps identify **where users drop off** and how to improve campaign
 ---
 
 ##  Dashboard
-dashboard/email_dashboard.png
+email_dashboard.png
 
 Interactive Dashboard (Tableau Public):https://public.tableau.com/app/profile/.43866940/viz/EmailMetrics_17641650448850/EmailMetrics?publish=yes
 
